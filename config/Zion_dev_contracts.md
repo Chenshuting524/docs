@@ -1,6 +1,7 @@
 ## Main Chain
 + Owner:  0x7FB1484882e4A3A7a4e31f0eb33bf3dD3d95f797
 + ChainId:  1
++ EthCrossChainManager: 0x5747C05FF236F8d18BB21Bc02ecc389deF853cae
 + Lock proxy: 0x7d79D936DA7833c7fe056eB450064f34A327DcA8
 + wrapper: 0x5D315b2f0C63890eFbfB37c26E0ae0807e72bCc9
 
