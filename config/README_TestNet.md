@@ -358,6 +358,17 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | Wrapper2.0 | 0xa2d97d1A123c6bD39AFD97F696B937fAcb024313 |                                         |
 | NB         | 0x2dA279bD19AB7E8641c0EE1884Da56fb636Ca20f | Token                                   |
 
+## Pixie
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCMP       | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 | Cross Chain Manager Proxy contract hash |
+| ECCD       | 0x25BB8E9C0Cc03B30d09769735208a47d389Ff36c | Cross Chain Data contract hash          |
+| ECCM       | 0x6fd13dd4181dDb0f7463e19caC659FD3e9FB8a82 | Cross Chain Manager contract hash       |
+| Lock Proxy | 0xa85c9FC8F2c9060d674E0CA97F703a0A30619305 | The lock proxy bridge contract hash     |
+| Wrapper2.0 | 0x455B51D882571E244d03668f1a458ca74E70d196 |                                         |
+|NFT lockproxy | 0x6Bc728a0ce7e189CBfb8AD932fb57928106D2674 |  NFT LockProxy                                       |
+|NFT Query | 0x35EFCE8D79D6Cae30B38F6dAC3fc55C62c146b4c |  NFT Query                                       |
+|NFT Wrapper | 0x3237b7BC8283B4E07bAC017EAe52eBC34B278cE9 |  NFT Wrapper                                      |
 
 ## Router And ChainId
 |   Type   | Router Number |   ChainId    |
