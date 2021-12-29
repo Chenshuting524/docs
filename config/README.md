@@ -291,6 +291,9 @@ DOG | 0x8dc27752faff2ade6efba8054e2f207506247f43 | DOG
 C | 0x1f09c5fa5522036c7cc7cddea46e9961ca01ead2 | C
 WIT| 0x633a87ca89ce86ed06a807e4af57ffe486980374| WIT
 YNI | 0x91cb98f1b1954253f03f82579d683732bae6813f | YNI
+Metis | 0xe552fb52a4f19e44ef5a967632dbc320b0820639| Metis
+LPMetis | 0x21b99A847D9acA807cEA907a342C93b1EF2bD55d| LP Metis
+NB | 0xAE5cD8943F93Ba59238dE1B81C81218C1Ce78F8B| NB
 
 ## Huobi Eco Chain(HECO)
 Type | Contract Hash | Desc
@@ -558,8 +561,11 @@ Type | Contract Hash | Desc
 CCMP | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6 | Optimistic Cross Chain Manager Proxy contract hash
 CCM | 0x2aA63cd0b28FB4C31fA8e4E95Ec11815Be07b9Ac | Optimistic Cross Chain Manager contract hash
 ECCD | 0x6c2A37Cf23E21EF3cFC45FdE2C0E1d3a9e7365f9 | Optimistic Cross Chain Data contract hash
-Lock Proxy | 0xd3b90E2603D265Bf46dBC788059AC12D52B6AC57 | Optimistic Lock Proxy contract hash
+Lock Proxy1.5 | 0xd3b90E2603D265Bf46dBC788059AC12D52B6AC57 | Optimistic Lock Proxy contract hash
 Wrapper 3.0 | 0xFbFDfc95B8EAe4719Ae7D7b94e6F7aCC2DC2e0D7 | wrapper_v2 that take native asset as fee
+Metis | 0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000 | Metis
+LP-Metis | 0x9BBFCc30bf4F5223570b535a7CE3C8BcC68123aB | LP Metis
+NB | 0x4D2A3234b2f2E27f03096097C4A530CAA8427681 | NB
 
 ## Router And ChainId
 Type | Router Number | ChainId
