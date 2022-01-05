@@ -361,7 +361,9 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | ECCD       | 0xbA6F835ECAE18f5Fc5eBc074e5A0B94422a13126 | Cross Chain Data contract hash          |
 | ECCM       | 0xC8042579D6b60E0e35161F228827E3Fa0F51d5B6 | Cross Chain Manager contract hash       |
 | Lock Proxy | 0x8a85143cA6ec1e181C3A5Ae4042ca999bFbF571B | The lock proxy bridge contract hash     |
+| LockProxyPip4 | 0x30e6ec356ceF1cfe3c7e14392EA08448382327bD | The lock proxy bridge contract hash     |
 | Wrapper2.0 | 0xE324EF8cd52833DD117e8ca87b483E78b30C3696 |                                         |
+| Wrapper3.0 | 0xD5a240f7F755bCa2aE992E807b06d24eB6DF7C12 |                                         |
 | NB         | 0x3AA03cD463D1e05e05F717a721bE1bC98dA54917 | Token                                   |
 ###### [Back to top](README_TestNet.md#menu)
 ## Kovan
