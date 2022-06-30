@@ -565,7 +565,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | CCM        | 0xF8Fda3a3749EccaDa04E1F23ed8e54CeEA43cEFf | Cross Chain Manager contract hash         |
 | CCMP       | 0x9063af3f406A0D7593278c57ef910d36B3451571 | Cross Chain Manager Proxy contract hash   |
 | Lock Proxy | 0x3243AB915767065466a048c1e43cB5C2d9CCc16B | Proxy contract hash                       |
-| WrapperV3  | 0x09cB7C0DC5146135A45B44Fc3a2166e4662Aa4bd |                                           |
+| WrapperV3  | 0x5CcB95B0E39818546ea1F19AC0b190e8164180f9 |                                           |
 
 ###### [Back to top](README_TestNet.md#menu)
 ## Celo
