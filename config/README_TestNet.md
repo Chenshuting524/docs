@@ -366,6 +366,9 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | CCM        | 0xbA6F835ECAE18f5Fc5eBc074e5A0B94422a13126 | Cross Chain Manager contract hash       |
 | Lock Proxy | 0x509fB7A017e33f18101dDC0d28Ac06aEaf6Edb4B | The lock proxy bridge contract hash     |
 | Wrapper2.0 | 0xA058FC5427d3E634698d1185C1BA01ADAf998E14 |                                         |
+| NFT Lock Proxy | 0x0D0968ff56861857b6d21537F84106C640cC3240 |   The nft lock proxy bridge contract hash  for neo                                       |
+| NFT Wrapper V2   | 0xA4E492E0DFe2B930Bc0EaA94E3aa3531DE2Ef67C |                                          |
+| NFT Query      | 0x0eaAe6F5D8Be3177D9286825c3878Dd4AAAFD2e6 |                                          |
 | NB         | 0x3AA03cD463D1e05e05F717a721bE1bC98dA54917 | Token                                   |
 ###### [Back to top](README_TestNet.md#menu)
 ## Rinkeby
@@ -381,7 +384,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | NB             | 0x3AA03cD463D1e05e05F717a721bE1bC98dA54917 | Token                                    |
 | Boba           | 0x6A6676813d3D4317442CF84667425C13553F4a76 | Boba Token                               |
 | LP Boba        | 0x0a80C08081dAa3B9786B9661F83123C2772c5Df1 | LP Boba Token                            |
-| NFT Lock Proxy | 0x9bEF1AE7304D3d2F344ea00e796ADa18cE1beb03 |                                          |
+| NFT Lock Proxy | 0x0D0968ff56861857b6d21537F84106C640cC3240 |                                          |
 | NFT Wrapper    | 0x25BB8E9C0Cc03B30d09769735208a47d389Ff36c |                                          |
 | NFT Query      | 0x6fd13dd4181dDb0f7463e19caC659FD3e9FB8a82 |                                          |
 
@@ -617,6 +620,16 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | WrapperV3  | 0xdD5CcD4B40afb869F00A092Ace0255f1942185De |                                           |
 
 ###### [Back to top](README_TestNet.md#menu)
+## Astar
+| Type       | Contract Hash                              | Desc                                      |
+|------------|--------------------------------------------|-------------------------------------------|
+| CCD        | 0x015bBE5074148E245791F4dA27B5bfb3B7DE158A | Cross Chain Data contract hash            |
+| CCM        | 0x55a59c57a133d1c999b3Eaf5B16ad5c1F2e365c8 | Cross Chain Manager contract hash         |
+| CCMP       | 0xa65bD4431C38A4dD9c92ebE60dE3cb8C252c04E5 | Cross Chain Manager Proxy contract hash   |
+| Lock Proxy | 0xc4ef39a0Dc3838Db46AdA832e46e3cf4B3d495E4 | Proxy contract hash                       |
+| WrapperV3  | 0xAefD220aE393144dcb5EFD6Ab55ABDf6a3d0444d |                                           |
+
+###### [Back to top](README_TestNet.md#menu)
 ## Router And ChainId
 |     Type      | Router Number |   ChainId    |
 |:-------------:|:-------------:|:------------:|
@@ -635,7 +648,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 |   Heimdall    |      15       |     201      |
 |    Polygon    |       0       |     202      |
 |    NEO(N3)    |      88       |      88      |
-|   Arbitrum    |       0       |     205      |
+|   Arbitrum-rinkeby(abandoned)    |       0       |     205      |
 |    Gnosis     |       0       |     206      |
 |  Optimism   |       0       |     210      |
 |    Fantom     |       0       |     208      |
@@ -663,5 +676,6 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 |     Clover    |       0       |     970      |
 |     Conflux    |       0       |     980      |
 |     Astar    |       0       |     990      |
+|   Arbitrum-goerli    |       0       |     215      |
 
 ###### [Back to top](README_TestNet.md#menu)
