@@ -279,16 +279,16 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | zETH       | 0x0e0cbcd97db4c94890b528ef3d33d5b5c1776eef | Zilliqa-bridged ETH token               |
 | zDai       | 0x8f79cd968f0968565a157975f4fe406ea22d0571 | Zilliqa-bridged Dai Stablecoin          |
 ###### [Back to top](README_TestNet.md#menu)
-## Arbitrum
+## Arbitrum-rinkeby(abandoned)
 | Type                   | Contract Hash                               | Desc                                    |
 |------------------------|---------------------------------------------|-----------------------------------------|
 | CCMP                   | 0xeE96Aa05b320a570C489aBd5EEc546AE4Fb58Eb7  | Cross Chain Manager Proxy contract hash |
 | CCD                    | 0x71c2003f90bA0D2ce8a79DE9a70E7dD41BBfB983  | Cross Chain Data contract hash          |
 | CCM                    | 0x3A77dB10eAa7436e608a99643Ab2bEB2E901C72C  | Cross Chain Manager contract hash       |
 | Lock Proxy             | 0x97f72bA888A26A0F98C67cf15d781dDBFE64B990  | The lock proxy bridge contract hash     |
-| Wrapper                | 0x27eb74B4Db37517F1dC6dE67364e19782624402F  |                                         |
-| Arbitrum Bridge-O3V2   | 0x66265a0D04a70f737887fCa3e35bc634729d4439  | Arbitrum Bridge for O3V2                |
-| Arbitrum Wrapper-O3V2  | 0x67901cb4b2b88D7Fb680653c82ddcd70c63b44e6  | Arbitrum Wrapper for O3V2               |
+| WrapperV3                | 0x27eb74B4Db37517F1dC6dE67364e19782624402F  |                                         |
+| Arbitrum Bridge-O3V2	             | 0x66265a0D04a70f737887fCa3e35bc634729d4439  | Arbitrum Bridge for O3V2     |
+| Arbitrum Wrapper-O3V2	                | 0x67901cb4b2b88D7Fb680653c82ddcd70c63b44e6  |       Arbitrum Wrapper for O3V2                                  |
 
 ###### [Back to top](README_TestNet.md#menu)
 ## Gnosis
@@ -366,6 +366,9 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | CCM        | 0xbA6F835ECAE18f5Fc5eBc074e5A0B94422a13126 | Cross Chain Manager contract hash       |
 | Lock Proxy | 0x509fB7A017e33f18101dDC0d28Ac06aEaf6Edb4B | The lock proxy bridge contract hash     |
 | Wrapper2.0 | 0xA058FC5427d3E634698d1185C1BA01ADAf998E14 |                                         |
+| Nft Lock Proxy | 0x0D0968ff56861857b6d21537F84106C640cC3240 |  The nft lock proxy for NEO    |
+| Nft Query Proxy | 0x0eaAe6F5D8Be3177D9286825c3878Dd4AAAFD2e6 |      |
+| Nft WrapperV2 |0x64E5520e292F657Ef3D9A02ab724231Cde771B51  |      |
 | NB         | 0x3AA03cD463D1e05e05F717a721bE1bC98dA54917 | Token                                   |
 ###### [Back to top](README_TestNet.md#menu)
 ## Rinkeby
@@ -615,6 +618,15 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | CCMP       | 0xc2d365475EEf3ec83e59D1BcDF3A291D7B23Ba99 | Cross Chain Manager Proxy contract hash   |
 | Lock Proxy | 0x7877Ad76Dd6069035B56137707368C945D2aD452 | Proxy contract hash                       |
 | WrapperV3  | 0xdD5CcD4B40afb869F00A092Ace0255f1942185De |                                           |
+###### [Back to top](README_TestNet.md#menu)
+## Arbitrum-goerli
+| Type                   | Contract Hash                               | Desc                                    |
+|------------------------|---------------------------------------------|-----------------------------------------|
+| CCMP                   | 0xa65bD4431C38A4dD9c92ebE60dE3cb8C252c04E5  | Cross Chain Manager Proxy contract hash |
+| CCD                    | 0x015bBE5074148E245791F4dA27B5bfb3B7DE158A  | Cross Chain Data contract hash          |
+| CCM                    | 0x55a59c57a133d1c999b3Eaf5B16ad5c1F2e365c8  | Cross Chain Manager contract hash       |
+| Lock Proxy             | 0xc4ef39a0Dc3838Db46AdA832e46e3cf4B3d495E4  | The lock proxy bridge contract hash     |
+| WrapperV3                | 0xAefD220aE393144dcb5EFD6Ab55ABDf6a3d0444d  |                                         |
 
 ###### [Back to top](README_TestNet.md#menu)
 ## Router And ChainId
@@ -635,7 +647,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 |   Heimdall    |      15       |     201      |
 |    Polygon    |       0       |     202      |
 |    NEO(N3)    |      88       |      88      |
-|   Arbitrum    |       0       |     205      |
+|   Arbitru-rinkeby(abandon)    |       0       |     205      |
 |    Gnosis     |       0       |     206      |
 |  Optimism   |       0       |     210      |
 |    Fantom     |       0       |     208      |
@@ -663,5 +675,5 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 |     Clover    |       0       |     970      |
 |     Conflux    |       0       |     980      |
 |     Astar    |       0       |     990      |
-
+|   Arbitru-goerli    |       0       |     215      |
 ###### [Back to top](README_TestNet.md#menu)
