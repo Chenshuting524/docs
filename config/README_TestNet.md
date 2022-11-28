@@ -161,8 +161,8 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 
 | Type       | Contract Hash                                                                                  | Desc                                                                                                   |
 |------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Wrapper    | B:a5c101afa9e04e9dd2c912983795005a49e02efa L: fa2ee0495a0095379812c9d29d4ee0a9af01c1a5         |
-| Lock Proxy | B: 33c439c502cb4b6ac5a1e8057a65fe1fa7c300e2 </br> L: e200c3a71ffe657a05e8a1c56a4bcb02c539c433  | The bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
+| Wrapper    | B:c16b8cd1effb3c103b18e43ebad8386ccf2e0db6 L: b60d2ecf6c38d8ba3ee4183b103cfbefd18c6bc1         |
+| Lock Proxy | B: 8b32faff5d6b861b91208b1c772f687427bd63da </br> L: da63bd2774682f771c8b20911b866b5dfffa328b  | The bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx |
 | OERC20     | B: e930755b130dccb25dc3cfee2b2e30d9370c1a75  </br> L: 751a0c37d9302e2beecfc35db2cc0d135b7530e9 | ERC20 template contract hash in Ontology chain                                                         |
 | OEP4       | B: 969850e009b5e2a061694f3479ec8e44bc68bcd3 </br> L: d3bc68bc448eec79344f6961a0e2b509e0509896  | OEP4 template contract hash in Ontology chain                                                          |
 | ONG        | B: 0200000000000000000000000000000000000000 </br> L: 0000000000000000000000000000000000000002  | ONG asset hash in Ontology chain                                                                       |
@@ -174,7 +174,7 @@ This is cross chain asset contract info on <strong>TESTNET</strong>, it's used t
 | ODAI       | B: 96cf88356123592835a2fa75068a242260be1791</br> L: 9117be6022248a0675faa235285923613588cf96   |                                                                                                        |
 | OETH       | B: 7009a2f7c8a2e45fa386a6078c7bfeaf518be487</br> L: 87e48b51affe7b8c07a686a35fe4a2c8f7a20970   |                                                                                                        |
 | ONEO       | B: 13eef3e184d878038317d806796b3af2d9f9b36d</br> L: 6db3f9d9f23a6b7906d817830378d884e1f3ee13   |                                                                                                        |
-| ORENBTC    | B: ec547bc4486dea97cb659f1fe73407922f9e63c8</br> L: c8639e2f920734e71f9f65cb97ea6d48c47b54ec   |                                                                                                        |
+| ORENBTC    | B: ec547bc4486dea97cb659f1fe73407922f9e63c8</br> L: c8639ef2f920734e71f9f65cb97ea6d48c47b54ec   |                                                                                                        |
 | WING       | B: ff31ec74d01f7b7d45ed2add930f5d2239f7de33</br> L: 33def739225d0f93dd2aed457d7b1fd074ec31ff   |                                                                                                        |
 | pPAX       | B: 5cb420480614fc635f7bfa7f3bd2cd5484004545</br> L: 4545008454cdd23b7ffa7b5f63fc14064820b45c   |                                                                                                        |
 | pSUSD      | B: 37f4497b6f5f511e73843a0bda1042777666f7ec</br> L:ecf76676774210da0b3a84731e515f6f7b49f437    |                                                                                                        |
