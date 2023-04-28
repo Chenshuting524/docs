@@ -15,7 +15,7 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 | **[Oasis-26](README.md#Oasis)**            | **[Harmony-27](README.md#Harmony)**         | **[Hsc-28](README.md#Hsc)**               | **[Bytom-29](README.md#Bytom)**       | **[Kcc-30](README.md#Kcc)**            |
 | **[Starcoin-31](README.md#Starcoin)**      |**[Kava-32](README.md#Kava)**                | **[Cube-35](README.md#Cube)**             | **[Celo-36](README.md#Celo)**             | **[Clover-37](README.md#Clover)**             |
 **[Conflux-38](README.md#Conflux)**             |**[Ripple-39](README.md#Ripple)**             |**[Astar-40](README.md#Astar)**             |**[Aptos-41](README.md#Aptos)**             |**[Bitgert-42](README.md#Bitgert)**             |
-**[Dexit-43](README.md#Dexit)**             |**[Cloudtx-44](README.md#Dexit)**             |**[ZkSync-45](README.md#Dexit)**             |
+**[Dexit-43](README.md#Dexit)**             |**[Cloudtx-44](README.md#Cloudtx)**             |**[ZkSync-45](README.md#ZkSync)**             |**[XinFin-46](README.md#XinFin)**             |
 
 ### Quick Index
 
@@ -268,6 +268,7 @@ This's cross chain asset contract info ONLY in <strong>MAINNET</strong> mode, it
 | Lock Proxy-n3   | 0x12BB90a4bAA8FD125794E34dAFfeC109aB63Dfb4   | BSC Asset Proxy contract hash for n3                  |
 | Lock Proxy-DXT   | 0x6939ac7A9c7E16088005957892B8A81e3B4F2671   | BSC Asset Proxy contract hash for dexit                  |
 | Lock Proxy-Cloudtx   | 0xeb0C72A23287675061946a727a0AcFbf4b105801    | BSC Asset Proxy contract hash for cloudtx                  |
+| Lock Proxy-XDC   | 0x76F82b3586577aA7f886d002718aF96b4A6f6eBE    | BSC Asset Proxy contract hash for XDC                  |
 | Poly Wrapper     | 0xE3D0FB6E3cB5DA61EB18b06D035052441009d1E6   | lock entrance for auto cross chain tx with fee  |
 | WrapperV2        | 0x4b0CFdb5e1Ca898a225F9E14AfF9e4eF178a10d2   | wrapper_v2 that take native asset as fee        |
 | WrapperV3        | 0xbc3B4E7517c06019F30Bf2f707eD2770b85f9928   | wrapper_v3 that take native asset as fee        |
@@ -835,6 +836,16 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 | WrapperV3               | 0xe40C9F8e576cFF6E0A274dd230835d55fE50BBc9  |                                         |
 
 ###### [Back to top](README.md#menu)
+## XinFin
+| Type                  | Contract Hash                               | Desc                                    |
+|-----------------------|---------------------------------------------|-----------------------------------------|
+| CCD                   | 0x4D2A3234b2f2E27f03096097C4A530CAA8427681  | Cross Chain Data contract hash          |
+| CCM                   | 0xab7a3CA9bDcE476F0ECC04c127CFEe0F3D212BC5  | Eth Cross Chain Manager                 |
+| CCMP                  | 0x85472B4D353Cb89f86294b2e983ba44722bC0331  | Cross Chain Manager Proxy contract hash |
+| LockProxy             | 0x526444013Cd4D457212fF88Fe6F8e7c995DF1E40  |                                         |
+| WrapperV3               | 0x5906777d34257a2b479c291871C9BFdFB922D67D  |                                         |
+
+###### [Back to top](README.md#menu)
 ## Router And ChainId
 |    Type    | Router Number |  ChainId  |
 |:----------:|:-------------:|:---------:|
@@ -877,6 +888,7 @@ Type | Denom (coin name) | Asset/Contract Hash | Desc
 |    Dexit  |       0       |    43   |
 |    Cloudtx  |       0       |    44   |
 |    ZkSync  |       0       |    45   |
+|    XinFin  |       0       |    46   |
 
 ###### [Back to top](README.md#menu)
 ## Relayers
